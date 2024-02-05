@@ -1,0 +1,1 @@
+export const API_HOST = "http://20.115.89.250:8000/";
